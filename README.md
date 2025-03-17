@@ -14,7 +14,7 @@ o Muestra una lista de los participantes antes del sorteo.
 o Realiza un sorteo aleatorio con un solo clic.
 o Oculta la lista de nombres y muestra solo el ganador.
 
--Recomendaciones:
+-Recomendaciones:📌
 
 o Evita colocar nombres vacíos y caracteres especiales.
 
