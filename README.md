@@ -8,6 +8,7 @@ Su objetivo es agregar nombres de participantes, realizar un sorteo aleatorio y 
 
 -Características:
 🎱
+
 o Permite agregar nombres mediante un campo de texto.
 o Muestra una lista de los participantes antes del sorteo.
 o Realiza un sorteo aleatorio con un solo clic.
