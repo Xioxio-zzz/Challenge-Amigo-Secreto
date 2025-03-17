@@ -10,8 +10,11 @@ Su objetivo es agregar nombres de participantes, realizar un sorteo aleatorio y 
 🎱
 
 o Permite agregar nombres mediante un campo de texto.
+
 o Muestra una lista de los participantes antes del sorteo.
+
 o Realiza un sorteo aleatorio con un solo clic.
+
 o Oculta la lista de nombres y muestra solo el ganador.
 
 -Recomendaciones:📌
